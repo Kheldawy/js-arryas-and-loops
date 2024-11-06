@@ -270,8 +270,4 @@
 //     sum += number; 
 // }
 
-// <<<<<<< HEAD
-// // console.log(sum);
-// =======
-// // console.log(sum);
-// >>>>>>> 33477f35fac93a8751c0ddfc6e8e4e24a7330145
+
